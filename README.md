@@ -1,4 +1,4 @@
-This script contain the process of reconnaissance on a domain.
+The recon.sh script contain the process of reconnaissance on a domain.
 
 during this process i used multiple tools such as Sublist3r,httprobe and eyewitness.
 
