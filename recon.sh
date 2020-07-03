@@ -3,7 +3,7 @@
 echo "Gathering subdomains with sublist3r..."
 
 sublist3r -d $1 -o all.txt 
-#subdomains $1 >> all.txt
+subdomains $1
 
 #we are using pwd because we will need it later on with eyewitness
 pwd=$(pwd)
